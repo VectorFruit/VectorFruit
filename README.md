@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning at TYUT
 -->
 
-I'm @VectorFruit, an undergraduate in College of Mineral Engineers, Taiyuan University of Technology.
+I'm @VectorFruit, an undergraduate in College of Mineral Engineering, Taiyuan University of Technology.
+<br>
 Althougth I'm not major in CS or EE during my undergraduate period, I still have a passion to them. 
 
 I aspire to be a Computer System developer and learn hard to do so.
