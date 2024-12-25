@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **VectorFruit/VectorFruit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +12,29 @@ Althougth I'm not major in CS or EE during my undergraduate period, I still have
 
 I aspire to be a Computer System developer and learn hard to do so.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorFruit)
+Working with
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="C" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
 
-<\br>
+Learning
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VectorFruit)
+Interested in
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
+</p>
+
+<p align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorFruit)
+</p>
+
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VectorFruit)
+</p>
