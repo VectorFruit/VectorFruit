@@ -31,7 +31,15 @@ Interested in
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
 </p>
 
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorFruit)
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VectorFruit)
+> "The sky is the limit."
+
+> "天空即为极限。"
+
+<p align="center">
+
+<img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=VectorFruit&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
+
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VectorFruit&layout=compact"  width="300" height="300"/>
+</p>
