@@ -32,13 +32,7 @@ Interested in
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
 </p>
 
-> "The sky is the limit."
+> "The sky is the limit." 
 > "天空即为极限。"
 
-<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorFruit)](https://github.com/VectorFruit/github-readme-stats)
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VectorFruit&layout=compact"  width="300" height="300"/>
-</p>
