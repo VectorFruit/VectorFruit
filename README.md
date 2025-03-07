@@ -7,11 +7,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning at TYUT
 -->
 
-I'm @VectorFruit, an undergraduate in College of Mineral Engineering, Taiyuan University of Technology.
-<br>
-Althougth I'm not major in CS or EE during my undergraduate period, I still have a passion to them. 
+I'm @VectorFruit, an undergraduate student at the College of Mineral Engineering, Taiyuan University of Technology.  
+<br>  
+Although I am not majoring in CS or EE, I am still passionate about both fields.  
 
-I aspire to be a Computer System developer and learn hard to do so.
+I aspire to become a computer systems developer and am working hard to achieve this goal.
+
 
 Working with
 <p align="center">
