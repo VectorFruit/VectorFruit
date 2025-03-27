@@ -36,4 +36,7 @@ Interested in
 > "The sky is the limit."  
 > "天空即为极限。"
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VectorFruit)](https://github.com/VectorFruit/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VectorFruit&theme=calm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VectorFruit&theme=calm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&hide=html" height="150" alt="languages graph"/>
+</div>
