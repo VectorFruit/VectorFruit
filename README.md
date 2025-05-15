@@ -7,11 +7,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning at TYUT
 -->
 
-I'm @VectorFruit, an undergraduate student at the College of Mineral Engineering, Taiyuan University of Technology.  
-<br>  
-Although I am not majoring in CS or EE, I am still passionate about both fields. And I’m currently learning Chip Design flow.
+I'm @VectorFruit, an undergraduate student at the College of Mineral Engineering, Taiyuan University of Technology.
 
-I aspire to become a computer systems developer and am working hard to achieve this goal.
+Although my major is not in computer science or electrical engineering, I have a strong interest in both fields, particularly in computer architecture and digital design. I'm currently studying the full-chip design flow, with a focus on RISC-V and open-source hardware development.
+
+I also serve as a volunteer teaching assistant in the One Student One Chip (一生一芯) program, where I assist participants in understanding processor microarchitecture, hardware description languages (HDLs), and simulation/debugging tools such as Verilog and QEMU.
+
+I aspire to become a computer systems engineer and am actively building the skills required for that goal.
 
 
 Working with
