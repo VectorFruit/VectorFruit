@@ -42,6 +42,6 @@ Interested in
 > "天空即为极限。"
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VectorFruit&theme=calm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VectorFruit&theme=calm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&hide=html" height="150" alt="languages graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VectorFruit&theme=nord_dark" height="150" alt="stats graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VectorFruit&theme=nord_dark" height="150" alt="languages graph"/>
 </div>
